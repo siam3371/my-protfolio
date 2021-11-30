@@ -1,3 +1,7 @@
-.write-navbar {
-  color: rgb(53, 25, 25);
+.navbar-background {
+  color: aliceblue;
+  /* background-color: rgba(22, 235, 54, 0.647) !important; */
+}
+.nav-color {
+  color: #0d6efd !important;
 }
