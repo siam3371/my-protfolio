@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
     return (
         <div> 
-            <p className="text-center text-white ">copy right 2021 Siam Hossain</p>
+            <p className="text-center text-white ">© 2021, Maruf Hossain Siam</p>
         </div>
     );
 };

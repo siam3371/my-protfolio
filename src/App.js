@@ -50,7 +50,7 @@ function App() {
     <Blogs></Blogs>
     </Route>
  </Switch>
- {/* <Footer></Footer> */}
+ <Footer></Footer>
  </Router>
     </div>
   );
