@@ -3,19 +3,19 @@ import './App.css';
 import About from './Components/About/About';
 import Blogs from './Components/Blogs/Blogs';
 import Contact from './Components/Contact/Contact';
-import Footer from './Components/Footer/Footer';
+import Footer from './Components/Footer/Footer'; 
 import Header from './Components/Header/Header';
 import CarSales from './Components/HomePage/CarSales/CarSales';
 import FoodDelivery from './Components/HomePage/FoodDelivery/FoodDelivery';
 import HealthCare from './Components/HomePage/HealthCare/HealthCare';
 import Home from './Components/HomePage/Home/Home';
 import HondaCbr from './Components/HomePage/HondaCbr/HondaCbr';
-import Projects from './Components/Projects/Projects';
+ import Projects from './Components/Projects/Projects';
 
 function App() {
   return (
     <div className="App"> 
-  <Router>
+   <Router>
   <Header></Header>
  <Switch>
    <Route exact path="/">
