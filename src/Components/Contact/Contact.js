@@ -5,8 +5,8 @@ const Contact = () => {
         e.preventDefault();
     } 
     return (
-        <div>
-             <h1>Contact Me</h1>
+        <div className="bg-img">
+             <h1 className="text-success ">Contact Me</h1>
             <form onSubmit={handleSubmit}>
             <input type="email" name="" id="" placeholder="Enter Your Email" />
              <input type="text" id="https://form.jotform.com/213325172058450" placeholder="Write about our website" />
