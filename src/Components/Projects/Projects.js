@@ -14,18 +14,19 @@ const Projects = () => {
 </div>
   }
     return (
-<div className="bg-img  container"  data-aos="fade-up"
+      /*  data-aos="fade-up"
     data-aos-offset="200"
     data-aos-delay="50"
     data-aos-duration="1000"
     data-aos-easing="ease-in-out"
     data-aos-mirror="true"
     data-aos-once="false"
-    data-aos-anchor-placement="top-center">
+    data-aos-anchor-placement="top-center" */
+<div className="container" >
    <h1 className="text-success">My Projects</h1>
 <div className="row">
 <div className="col-lg-6 col-md-6 col-12 ">
-<div className="card" >
+<div className="card" style={{width:"400px"}} >
   <img src="https://i.ibb.co/cCr9hY9/Screenshot-292.png" className="card-img-top  " alt=""/>
   <div className="card-body">
     <h2 className="card-title">Car Sales</h2>
@@ -39,7 +40,7 @@ const Projects = () => {
 </div>
 </div>
 <div className="col-lg-6 col-md-6 col-12">
-<div className="card" >
+<div className="card" style={{width:"400px"}} >
   <img src="https://i.ibb.co/XW1D3RD/Screenshot-298.png" className="card-img-top" alt=""/>
   <div className="card-body">
     <h2 className="card-title">Food Delivery</h2>
@@ -56,7 +57,7 @@ const Projects = () => {
 </div>
 <div className="row mt-3">
 <div className="col-lg-6 col-12 col-md-6">
-<div className="card" >
+<div className="card" style={{width:"400px"}} >
   <img src="https://i.ibb.co/JtvMr0d/Screenshot-306.png" className="card-img-top" alt=""/>
   <div className="card-body">
     <h2 className="card-title">Health Care</h2>
@@ -70,7 +71,7 @@ const Projects = () => {
 </div>
 </div>
 <div className="col-lg-6 col-12 col-md-6 ">
-<div className="card" >
+<div className="card ms-3" style={{width:"400px"}} >
   <img src="https://i.ibb.co/wRzgVy8/Screenshot-312.png" className="card-img-top" alt=""/>
   <div className="card-body">
     <h2 className="card-title">Honda Cbr</h2>

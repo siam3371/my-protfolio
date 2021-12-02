@@ -7,14 +7,7 @@ const About = () => {
         Aos.init({duration:2000})
     },[])
     return (
-        <div className="bg-img mb-5"    data-aos="fade-up"
-        data-aos-offset="200"
-        data-aos-delay="50"
-        data-aos-duration="1000"
-        data-aos-easing="ease-in-out"
-        data-aos-mirror="true"
-        data-aos-once="false"
-        data-aos-anchor-placement="top-center">
+        <div className="m-2  "     >
             <h1 className=" text-success ">About Me</h1> 
              <div className="row d-flex align-items-center">
                  <div className="col-lg-6 col-md-6 col-12">
