@@ -1,6 +1,5 @@
-.navbar-background {
-  color: aliceblue;
-  /* background-color: rgba(22, 235, 54, 0.647) !important; */
+.background-navbar {
+  background-color: #292121ed !important;
 }
 .nav-color {
   color: #0d6efd !important;

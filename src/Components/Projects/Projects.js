@@ -22,7 +22,7 @@ const Projects = () => {
     data-aos-mirror="true"
     data-aos-once="false"
     data-aos-anchor-placement="top-center" */
-<div className="container" >
+<div className="container" data-aos="fade-up" >
    <h1 className="text-success">My Projects</h1>
 <div className="row">
 <div className="col-lg-6 col-md-6 col-12 ">

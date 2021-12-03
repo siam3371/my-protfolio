@@ -1,9 +1,9 @@
 import React from 'react';
 import {   NavLink } from 'react-router-dom';
-
+import './Header.css'
 const Header = () => {
     return (
-        <nav className="navbar navbar-expand-lg bg-dark navbar-background text-success   fs-5">
+        <nav className="navbar navbar-expand-lg background-navbar  text-success   fs-5">
         <div className="container-fluid">
 
         <h2 className="navbar-brand fw-bold fs-3 ">Maruf Hossain Siam</h2>
