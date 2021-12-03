@@ -28,7 +28,7 @@ const Projects = () => {
 <div className="col-lg-6 col-md-6 col-12 ">
 <div className="card" style={{width:"400px"}} >
   <img src="https://i.ibb.co/cCr9hY9/Screenshot-292.png" className="card-img-top  " alt=""/>
-  <div className="card-body">
+    <div className="card-body">
     <h2 className="card-title">Car Sales</h2>
     <p className="card-text"> The name Aston Martin is derived partly from the name of its founder, Lionel Martin, and partly for a stretch of road in Hertfordshire, England, used for racing,</p>
       <Link to="/carSales">    <button className="button-81 m-3" role="button">Explore Page</button>   
@@ -42,7 +42,7 @@ const Projects = () => {
 <div className="col-lg-6 col-md-6 col-12">
 <div className="card" style={{width:"400px"}} >
   <img src="https://i.ibb.co/XW1D3RD/Screenshot-298.png" className="card-img-top" alt=""/>
-  <div className="card-body">
+   <div className="card-body">
     <h2 className="card-title">Food Delivery</h2>
     <p className="card-text"> Potato skins, chicken strips, toasted ravioli and mozzarella sticks served with Hot & Grilled nachos smothered in cheddar cheese, beef, black olives, onions, 
 </p>

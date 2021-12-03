@@ -2,8 +2,8 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div> 
-            <p className="text-center text-white">© 2021, Maruf Hossain Siam</p>
+        <div className="bg-dark p-2"> 
+            <p className="text-center text-white mt-2">© 2021, Maruf Hossain Siam</p>
         </div>
     );
 };
